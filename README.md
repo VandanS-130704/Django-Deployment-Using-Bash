@@ -6,7 +6,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 Automated deployment of a *Django* web app using *Bash, **Docker, and **Docker Compose*.  
-Spin up Django + MySQL + Nginx with a single command.
 
 ---
 
@@ -115,13 +114,4 @@ Code directory already exists
 Installing dependencies
 ...
 *********DEPLOYMENT ENDED*********
-
 ---
-
-✨ Now your README looks *professional, clean, and visually appealing* for GitHub.  
-
-Do you want me to also *add a "Future Improvements" section* (like CI/CD with GitHub Actions, SSL with Certbot, Monitoring with Prometheus) to show roadmap potential?
-
----
-
-## 📂 Project Structure
