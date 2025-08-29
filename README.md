@@ -66,7 +66,10 @@ The bash script:
 ---
 
 ## 📂 Project Structure
-6. ---
+├── django_deployment.sh # Main bash deployment script
+├── docker-compose.yml # Multi-container orchestration
+├── Dockerfile # Custom Django app image
+└── django-notes-app/ # Cloned open-source Django project
 
 ## 🚀 Running the Deployment
 Make the script executable and run it:
