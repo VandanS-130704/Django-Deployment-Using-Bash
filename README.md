@@ -29,8 +29,6 @@ The Django app deployed here is from the open-source repo:
 
 ## 📸 Screenshots
 
-> Place these image files in your repo (root) with the *same file names*.
-
 <p align="center">
   <img src="./script.jpg" alt="Deployment Script" width="800">
 </p>
