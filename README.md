@@ -5,7 +5,7 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-Automated deployment of a *Django* web app using *Bash, **Docker, and **Docker Compose*.  
+Automated deployment of a *Django* web app using *Bash*, *Docker*, and *Docker Compose*.  
 
 ---
 
@@ -14,10 +14,7 @@ Automated deployment of a *Django* web app using *Bash, **Docker, and **Docker C
 - [Screenshots](#-screenshots)
 - [How It Works](#-how-it-works)
 - [Project Structure](#-project-structure)
-- [Run the Deployment](#-run-the-deployment)
-- [Sample Logs](#-sample-logs)
-- [Containers Created](#-containers-created)
-- [Result](#-result)
+- [Running the Deployment](#-running-the-deployment)
 
 ---
 
