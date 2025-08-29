@@ -96,6 +96,7 @@ The bash script:
     ├── installing.jpg
     ├── docker-ps.jpg
     └── app.jpg
+---
 
 ## 🚀 Running the Deployment
 Make the script executable and run it:
