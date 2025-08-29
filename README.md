@@ -99,7 +99,7 @@ The bash script:
     ├── installing.jpg
     ├── docker-ps.jpg
     └── app.jpg
-
+```
 ---
 
 ## 🚀 Running the Deployment
