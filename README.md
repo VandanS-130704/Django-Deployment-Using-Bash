@@ -66,7 +66,6 @@ The bash script:
 ---
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 ```text
 📦 django-deployment-using-bash
