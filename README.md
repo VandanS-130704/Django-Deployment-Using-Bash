@@ -66,10 +66,36 @@ The bash script:
 ---
 
 ## 📂 Project Structure
-├── django_deployment.sh # Main bash deployment script
-├── docker-compose.yml # Multi-container orchestration
-├── Dockerfile # Custom Django app image
-└── django-notes-app/ # Cloned open-source Django project
+📦 django-deployment-using-bash
+│
+├── 📜 README.md                 # Documentation with screenshots
+├── 📜 django_deployment.sh      # Bash script for automated deployment
+├── 📜 docker-compose.yml        # Multi-container orchestration
+├── 📜 Dockerfile                # Custom Django app image
+├── 📜 .env.example              # Example environment variables (DB, secret key, etc.)
+│
+├── 📂 django-notes-app/         # Cloned Django project
+│   ├── manage.py
+│   ├── requirements.txt
+│   ├── notes/                   # Django app
+│   ├── settings.py
+│   └── ...
+│
+├── 📂 nginx/                    # Nginx config (reverse proxy, SSL, etc.)
+│   └── default.conf
+│
+├── 📂 scripts/                  # Optional extra scripts
+│   ├── backup.sh
+│   └── restore.sh
+│
+├── 📂 media/                    # User-uploaded files (mounted as volume)
+├── 📂 static/                   # Static files (collected by Django)
+│
+└── 📂 docs/                     # Documentation & Screenshots
+    ├── script.jpg
+    ├── installing.jpg
+    ├── docker-ps.jpg
+    └── app.jpg
 
 ## 🚀 Running the Deployment
 Make the script executable and run it:
